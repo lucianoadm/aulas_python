@@ -1,2 +1,2 @@
 ## Python
-### arquivos de aulas e exercícios básicos em Python.
+### Arquivos de aulas e exercícios básicos em Python.
