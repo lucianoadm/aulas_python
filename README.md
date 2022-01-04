@@ -1,2 +1,2 @@
 # Pyrhon
-## arquivos de aulas e exercícios básicos em python
+## arquivos de aulas e exercícios básicos em Python.
